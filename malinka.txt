@@ -1,3 +1,3 @@
 v dalsej ulohe mame vytvorit tento subor 
 pushnut ho do repozitara
-a samozrejme najprv ho pridat do projektu, ktory mame na githube
+a samozrejme najprv ho pridat do projektu, ktory mame na githube. A teraz sa ti trochu pohram s fileom :P

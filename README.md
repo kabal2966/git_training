@@ -18,6 +18,7 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 2. Click the README.md link from the list of files.
 3. Click the **Edit** button.
 4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
+5. Delete the whole repository
 
 
 ---
