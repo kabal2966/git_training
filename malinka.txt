@@ -1,0 +1,3 @@
+v dalsej ulohe mame vytvorit tento subor 
+pushnut ho do repozitara
+a samozrejme najprv ho pridat do projektu
