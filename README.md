@@ -1,4 +1,4 @@
-#Git trening 
+﻿#Git trening 
 
 Kedze nejde [github](https://github.com), tak pouzivame [bitbucket](https://bitbucket.com)
 
@@ -19,6 +19,7 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 3. Click the **Edit** button.
 4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
 5. Delete the whole repository
+6. Go for it :)
 
 
 ---
