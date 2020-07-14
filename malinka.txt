@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 v dalsej ulohe mame vytvorit tento subor dufam 
 pushnut ho do repozitara ze sa mi podari
 a samozrejme najprv ho pridat do projektu, ktory mame na githube. A teraz sa ti trochu pohram s fileom :P soravit conflict
-=======
-v dalsej ulohe mame vytvorit tento subor 
-pushnut ho do repozitara
-a samozrejme najprv ho pridat do projektu, ktory mame na githube. A teraz sa ti trochu pohram s fileom :P
 
 prajem vela zabavy, kludne sa hraj 
->>>>>>> ab4c653ba24fd0c918c35cd33b35c716ee1b0a16
+
+sladka
+cervena
+zhnita
