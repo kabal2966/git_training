@@ -1,6 +1,7 @@
 ﻿#Git trening 
+## druhy den
 
-Kedze nejde [github](https://github.com), tak pouzivame [bitbucket](https://bitbucket.com)
+Kedze nejde [github]https://github.com), tak pouzivame [bitbucket](https://bitbucket.com)
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
