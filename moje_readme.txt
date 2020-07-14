@@ -6,3 +6,4 @@ opat dopisem zmenu,  tu mas conflict lebo som pouzil git restote a skusim to pus
 
 Zatial len polievku, kedze moj obed mi pride okolo 13:00, dobre nie, donaska 
 
+sdoaspodaas
